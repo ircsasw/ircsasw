@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm Arturo Ramos - aka [ircsasw][website] 👋
+
+[![Website](https://img.shields.io/website?label=ircsasoftware.com.mx&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ircsasoftware.com.mx)
+[![Twitter Follow](https://img.shields.io/twitter/follow/A_RamosC?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=A_RamosC)
 
 <!--
 **ircsasw/ircsasw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[website]: https://ircsasoftware.com.mx
