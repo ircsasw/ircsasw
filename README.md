@@ -5,6 +5,7 @@
 [![Website](https://img.shields.io/badge/ircsasoftware.com.mx-web-red?style=for-the-badge)](https://ircsasoftware.com.mx)
 [![Twitter Follow](https://img.shields.io/twitter/follow/A_RamosC?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fircsasw&screen_name=A_RamosC)
 [![Email](https://img.shields.io/badge/ircsasw%40gmail.com-mail-blueviolet?style=for-the-badge)](mailto://ircsasw@gmail.com)
+[![In](https://img.shields.io/badge/LinkedIn-in-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aramosc/)
 
 <!--
 **ircsasw/ircsasw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
