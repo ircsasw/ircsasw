@@ -2,10 +2,10 @@
 
 ### Hola, soy Arturo Ramos ([ircsasw][mywebsite]) 👋
 
-[![Website](https://img.shields.io/badge/ircsasoftware.com.mx-web-red?style=for-the-badge)](https://ircsasoftware.com.mx)
-[![Twitter Follow](https://img.shields.io/twitter/follow/A_RamosC?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fircsasw&screen_name=A_RamosC)
-[![Email](https://img.shields.io/badge/ircsasw%40gmail.com-mail-blueviolet?style=for-the-badge)](mailto://ircsasw@gmail.com)
-[![In](https://img.shields.io/badge/LinkedIn-in-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aramosc/)
+[![Website](https://img.shields.io/badge/ircsasoftware.com.mx-web-red?style=flat-square)](https://ircsasoftware.com.mx)
+[![Twitter](https://img.shields.io/twitter/follow/A_RamosC?color=1DA1F2&logo=twitter&style=flat-square)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fircsasw&screen_name=A_RamosC)
+[![In](https://img.shields.io/badge/LinkedIn-in-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aramosc/)
+[![Email](https://img.shields.io/badge/ircsasw%40gmail.com-mail-blueviolet?style=flat-square)](mailto://ircsasw@gmail.com)
 
 Analista, diseñador y programador de sistemas administrativos para escritorio, WEB y móviles.
 Emprendedor, deportista "de fin de semana" y profesor de corazón.
