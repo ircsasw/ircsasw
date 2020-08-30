@@ -7,6 +7,9 @@
 [![Email](https://img.shields.io/badge/ircsasw%40gmail.com-mail-blueviolet?style=for-the-badge)](mailto://ircsasw@gmail.com)
 [![In](https://img.shields.io/badge/LinkedIn-in-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aramosc/)
 
+Analista, diseñador y programador de sistemas administrativos para escritorio, WEB y móviles.
+Emprendedor, deportista "de fin de semana" y profesor de corazón.
+
 <!--
 **ircsasw/ircsasw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
