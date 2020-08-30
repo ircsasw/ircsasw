@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/919978/91660711-fab22c80-ea9c-11ea-8ed4-c674068911e5.png)
+![image](https://user-images.githubusercontent.com/919978/91663069-27217500-eaac-11ea-906e-33220d3594f8.png)
 
 ### Hola, soy Arturo Ramos ([ircsasw][mywebsite]) 👋
 
